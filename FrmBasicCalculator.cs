@@ -32,6 +32,7 @@ namespace BasicCalculator
             {
                 operatorCMB.Items.Add(operators[i].ToString());
             }
+
             operatorCMB.SelectedIndex = 0;
         }
 
