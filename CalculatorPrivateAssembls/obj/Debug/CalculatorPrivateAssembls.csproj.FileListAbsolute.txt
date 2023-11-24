@@ -1,0 +1,6 @@
+C:\Users\Chtholly\Documents\Tutorial\CalculatorPrivateAssembls\bin\Debug\CalculatorPrivateAssembls.dll
+C:\Users\Chtholly\Documents\Tutorial\CalculatorPrivateAssembls\bin\Debug\CalculatorPrivateAssembls.pdb
+C:\Users\Chtholly\Documents\Tutorial\CalculatorPrivateAssembls\obj\Debug\CalculatorPrivateAssembls.csproj.AssemblyReference.cache
+C:\Users\Chtholly\Documents\Tutorial\CalculatorPrivateAssembls\obj\Debug\CalculatorPrivateAssembls.csproj.CoreCompileInputs.cache
+C:\Users\Chtholly\Documents\Tutorial\CalculatorPrivateAssembls\obj\Debug\CalculatorPrivateAssembls.dll
+C:\Users\Chtholly\Documents\Tutorial\CalculatorPrivateAssembls\obj\Debug\CalculatorPrivateAssembls.pdb
